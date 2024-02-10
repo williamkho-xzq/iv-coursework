@@ -14,3 +14,6 @@ https://altair-viz.github.io/altair-viz-v4/user_guide/encoding.html
 
 ## Expression list
 https://github.com/altair-viz/altair/blob/main/altair/expr/funcs.py
+
+## Git - handle large files
+https://git-lfs.com/
