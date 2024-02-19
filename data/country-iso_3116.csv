@@ -1,38 +1,38 @@
 name,alpha-2,country-code
-Afghanistan,AF,004
+Afghanistan,AF,4
 Åland Islands,AX,248
-Albania,AL,008
-Algeria,DZ,012
-American Samoa,AS,016
-Andorra,AD,020
-Angola,AO,024
+Albania,AL,8
+Algeria,DZ,12
+American Samoa,AS,16
+Andorra,AD,20
+Angola,AO,24
 Anguilla,AI,660
-Antarctica,AQ,010
-Antigua and Barbuda,AG,028
-Argentina,AR,032
-Armenia,AM,051
+Antarctica,AQ,10
+Antigua and Barbuda,AG,28
+Argentina,AR,32
+Armenia,AM,51
 Aruba,AW,533
-Australia,AU,036
-Austria,AT,040
-Azerbaijan,AZ,031
-Bahamas,BS,044
-Bahrain,BH,048
-Bangladesh,BD,050
-Barbados,BB,052
+Australia,AU,36
+Austria,AT,40
+Azerbaijan,AZ,31
+Bahamas,BS,44
+Bahrain,BH,48
+Bangladesh,BD,50
+Barbados,BB,52
 Belarus,BY,112
-Belgium,BE,056
-Belize,BZ,084
+Belgium,BE,56
+Belize,BZ,84
 Benin,BJ,204
-Bermuda,BM,060
-Bhutan,BT,064
-Bolivia (Plurinational State of),BO,068
+Bermuda,BM,60
+Bhutan,BT,64
+Bolivia,BO,68
 "Bonaire, Sint Eustatius and Saba",BQ,535
-Bosnia and Herzegovina,BA,070
-Botswana,BW,072
-Bouvet Island,BV,074
-Brazil,BR,076
-British Indian Ocean Territory,IO,086
-Brunei Darussalam,BN,096
+Bosnia and Herzegovina,BA,70
+Botswana,BW,72
+Bouvet Island,BV,74
+Brazil,BR,76
+British Indian Ocean Territory,IO,86
+Brunei Darussalam,BN,96
 Bulgaria,BG,100
 Burkina Faso,BF,854
 Burundi,BI,108
@@ -53,12 +53,12 @@ Congo,CG,178
 "Congo, Democratic Republic of the",CD,180
 Cook Islands,CK,184
 Costa Rica,CR,188
-Côte d'Ivoire,CI,384
+Cote D'Ivoire,CI,384
 Croatia,HR,191
 Cuba,CU,192
 Curaçao,CW,531
 Cyprus,CY,196
-Czechia,CZ,203
+Czech Republic,CZ,203
 Denmark,DK,208
 Djibouti,DJ,262
 Dominica,DM,212
@@ -104,7 +104,7 @@ Hungary,HU,348
 Iceland,IS,352
 India,IN,356
 Indonesia,ID,360
-Iran (Islamic Republic of),IR,364
+Iran,IR,364
 Iraq,IQ,368
 Ireland,IE,372
 Isle of Man,IM,833
@@ -117,8 +117,8 @@ Jordan,JO,400
 Kazakhstan,KZ,398
 Kenya,KE,404
 Kiribati,KI,296
-Korea (Democratic People's Republic of),KP,408
-"Korea, Republic of",KR,410
+North Korea,KP,408
+South Korea,KR,410
 Kuwait,KW,414
 Kyrgyzstan,KG,417
 Lao People's Democratic Republic,LA,418
@@ -182,7 +182,7 @@ Puerto Rico,PR,630
 Qatar,QA,634
 Réunion,RE,638
 Romania,RO,642
-Russian Federation,RU,643
+Russia,RU,643
 Rwanda,RW,646
 Saint Barthélemy,BL,652
 "Saint Helena, Ascension and Tristan da Cunha",SH,654
@@ -203,7 +203,7 @@ Singapore,SG,702
 Sint Maarten (Dutch part),SX,534
 Slovakia,SK,703
 Slovenia,SI,705
-Solomon Islands,SB,090
+Solomon Islands,SB,90
 Somalia,SO,706
 South Africa,ZA,710
 South Georgia and the South Sandwich Islands,GS,239
@@ -216,9 +216,9 @@ Svalbard and Jan Mayen,SJ,744
 Sweden,SE,752
 Switzerland,CH,756
 Syrian Arab Republic,SY,760
-"Taiwan, Province of China",TW,158
+Taiwan,TW,158
 Tajikistan,TJ,762
-"Tanzania, United Republic of",TZ,834
+Tanzania,TZ,834
 Thailand,TH,764
 Timor-Leste,TL,626
 Togo,TG,768
@@ -233,15 +233,15 @@ Tuvalu,TV,798
 Uganda,UG,800
 Ukraine,UA,804
 United Arab Emirates,AE,784
-United Kingdom of Great Britain and Northern Ireland,GB,826
+United Kingdom,GB,826
 United States of America,US,840
 United States Minor Outlying Islands,UM,581
 Uruguay,UY,858
 Uzbekistan,UZ,860
 Vanuatu,VU,548
-Venezuela (Bolivarian Republic of),VE,862
-Viet Nam,VN,704
-Virgin Islands (British),VG,092
+Venezuela,VE,862
+Vietnam,VN,704
+Virgin Islands (British),VG,92
 Virgin Islands (U.S.),VI,850
 Wallis and Futuna,WF,876
 Western Sahara,EH,732
